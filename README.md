@@ -1,4 +1,4 @@
-   ## My name is Davi, I'm a Fullstack Developer!
+   ## I'm Davi Manoel, a Fullstack Developer passionate about what I do!
    
 <div align="center">
   <a href="https://github.com/Davi-24k">
