@@ -1,4 +1,4 @@
-   ## </>💻 I'm Davi Manoel, a Fullstack Developer passionate about what I do! 💻</>
+   ## </>💻 I'm a Fullstack Developer! 💻</>
    
 <div align="center">
   <a href="https://github.com/Davi-24k">
